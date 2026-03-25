@@ -36,26 +36,6 @@ The application allows users to perform CRUD operations (Create, Read, Update, D
 - CSS
 - JavaScript (Vanilla)
 
----
-
-## 📂 Project Structure
-employee-managenent/
-├── src/main/java/com/company/employee_managenent/
-│ ├── controller/
-│ ├── service/
-│ ├── repository/
-│ ├── model/
-│ └── exception/
-├── src/main/resources/
-│ ├── static/
-│ │ ├── index.html
-│ │ ├── style.css
-│ │ └── script.js
-│ └── application.properties
-├── pom.xml
-
-
----
 
 ## ⚙️ Setup & Run Instructions
 
