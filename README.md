@@ -68,7 +68,7 @@ employee-managenent/
 1. Clone the repository: git clone https://github.com/DavidJun12/employee-management-system.git
 
 
-navigate to the project folder: cd employee-managenent
- Run the application: ./mvnw spring-boot:run
+2. navigate to the project folder: cd employee-managenent
+ 3. Run the application: ./mvnw spring-boot:run
 
- Open the application in your browser: http://localhost:8080/
+ 4.Open the application in your browser: http://localhost:8080/
