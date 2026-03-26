@@ -1,6 +1,6 @@
-package com.company.employee_managenent.repository;
+package com.company.repository;
 
-import com.company.employee_managenent.model.Employee;
+import com.company.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

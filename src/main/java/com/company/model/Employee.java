@@ -1,4 +1,4 @@
-package com.company.employee_managenent.model;
+package com.company.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

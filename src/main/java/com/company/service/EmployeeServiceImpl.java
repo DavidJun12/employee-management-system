@@ -1,8 +1,8 @@
-package com.company.employee_managenent.service;
+package com.company.service;
 
-import com.company.employee_managenent.model.Employee;
-import com.company.employee_managenent.repository.EmployeeRepository;
-import com.company.employee_managenent.exception.ResourceNotFoundException;
+import com.company.model.Employee;
+import com.company.repository.EmployeeRepository;
+import com.company.exception.ResourceNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

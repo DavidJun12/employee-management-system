@@ -1,7 +1,7 @@
-package com.company.employee_managenent.controller;
+package com.company.controller;
 
-import com.company.employee_managenent.model.Employee;
-import com.company.employee_managenent.service.EmployeeService;
+import com.company.model.Employee;
+import com.company.service.EmployeeService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
-package com.company.employee_managenent.service;
+package com.company.service;
 
-import com.company.employee_managenent.model.Employee;
+import com.company.model.Employee;
 
 import java.util.List;
 
